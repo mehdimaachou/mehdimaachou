@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Mehdi Maachou
+# 👋 Hi there!
 
-🚀 I’m a Data & AI Architect with a focus on **Microsoft Azure Data & AI** services, including:
+🚀 I’m Mehdi Maachou, a Data & AI Architect with a focus on **Microsoft Azure Data & AI** services, including:
 - Azure AI Foundry, Azure OpenAI, AI Search
 - Microsoft Fabric (Data Engineering, Lakehouse, Real-Time Analytics)
 - GenAI integrations with enterprise apps and services
@@ -32,13 +32,10 @@ To help developers and businesses unlock the full power of **Generative AI** and
 ---
 
 ## 🔗 Let’s Connect
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MehdiMaachou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehdimaachou)
+[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mehdimaachou12)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mehdimaachou.com/)
 
 ---
 
-<!--
-**yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
