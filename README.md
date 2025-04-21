@@ -11,7 +11,7 @@ To help developers and businesses unlock the full power of **Generative AI** and
 ---
 
 ## 🧠 What I’m Working On
-- 🎥 Creating videos on **Azure Data & AI Services**, ***AI Solutions** and **Microsoft Fabric** 
+- 🎥 Creating videos on **Azure Data & AI Services**, **AI Solutions** and **Microsoft Fabric** 
 - 💡 Exploring how to integrate **Generative AI** into real-world workflows
 - 🧪 Building small SaaS MVPs using **Vue 3** and **Azure AI services**
 
