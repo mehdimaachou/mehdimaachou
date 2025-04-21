@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Mehdi Maachou
 
-🚀 I’m a Cloud & AI Architect with a focus on **Microsoft Azure Data & AI** services, including:
+🚀 I’m a Data & AI Architect with a focus on **Microsoft Azure Data & AI** services, including:
 - Azure AI Foundry, Azure OpenAI, AI Search
 - Microsoft Fabric (Data Engineering, Lakehouse, Real-Time Analytics)
 - GenAI integrations with enterprise apps and services
