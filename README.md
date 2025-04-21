@@ -1,12 +1,12 @@
 # 👋 Hi there!
 
-🚀 I’m Mehdi Maachou, a Data & AI Architect @Microsoft with a focus on **Microsoft Azure Data & AI** services, including:
-- Azure AI Foundry, Azure OpenAI, AI Search
-- Microsoft Fabric (Data Engineering, Lakehouse, Real-Time Analytics)
-- GenAI integrations with enterprise apps and services
+🚀 I'm **Mehdi Maachou**, a Data & AI Specialist at **Microsoft**. 
+
+Based in **Paris, France**, I hold a Master's degree in **Distributed Systems**. My work revolves around data and AI technologies, and I enjoy applying cutting-edge solutions to real-world problems. 
+When I'm not immersed in tech, you can find me on the golf course! 🌍⛳
 
 🎯 **My Mission:**  
-To help developers and businesses unlock the full power of **Generative AI** and **Microsoft Fabric**, by building hands-on tutorials, demos, and educational content.
+Sharing knowledge to help developers and businesses unlock the full power of **Generative AI** and **Microsoft Fabric** through hands-on tutorials, demos, and educational content.
 
 ---
 
@@ -24,10 +24,6 @@ To help developers and businesses unlock the full power of **Generative AI** and
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
----
-
-## 📺 Latest Videos
-*(coming soon)*
 
 ---
 
