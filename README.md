@@ -5,8 +5,6 @@
 - Microsoft Fabric (Data Engineering, Lakehouse, Real-Time Analytics)
 - GenAI integrations with enterprise apps and services
 
-Code here is mine and is not tied to my employer.
-
 🎯 **My Mission:**  
 To help developers and businesses unlock the full power of **Generative AI** and **Microsoft Fabric**, by building hands-on tutorials, demos, and educational content.
 
@@ -41,3 +39,5 @@ To help developers and businesses unlock the full power of **Generative AI** and
 
 ---
 
+🛡️ **Disclaimer**  
+All content and code in my repositories reflect my personal views and work. They are not affiliated with or endorsed by my employer.
