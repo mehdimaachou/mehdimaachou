@@ -6,7 +6,7 @@ Based in **Paris, France**, I hold a Master's degree in **Distributed Systems**.
 When I'm not immersed in tech, you can find me on the golf course! 🌍⛳
 
 🎯 **My Mission:**  
-Sharing knowledge to help developers and businesses unlock the full power of **Generative AI** and **Microsoft Fabric** through hands-on tutorials, demos, and educational content.
+Sharing knowledge to help developers and businesses unlock the full power of **Data** and **AI** through hands-on tutorials, demos, and educational content.
 
 ---
 
